@@ -1,4 +1,7 @@
 # ProbePulse
+
+![ProbePulse: container network observability](assets/banner.png)
+
 **Container Network Monitoring & Operator-Approved Recovery**
 
 A six-service Docker Compose lab for diagnosing container connectivity, monitoring HTTP availability, and recovering a stopped service with human approval.
